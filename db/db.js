@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
+				"I'm Esnil Guevara. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
 				"I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
 				"I love to read, listen to music, and travel.",
 			],
@@ -17,7 +17,7 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "Python, R, C++",
 			color: "1",
 			percentage: "70",
 		},
@@ -47,7 +47,7 @@ export default {
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, JIRA, Trello",
+			skillName: "GitHub, Monday",
 			color: "7",
 			percentage: "70",
 		},
@@ -178,18 +178,16 @@ export default {
 	},
 	experience: [
 		{
-			title: "Biofourmis India Pvt. Ltd.",
-			duration: "April 2022 - Present",
-			subtitle: "Software Engineer",
+			title: "Estec",
+			duration: "May 2022 - Present",
+			subtitle: "Analista de Inteligencia de Negocios",
 			details: [
 				"Working on the products in the healthcare/digital therapeutics domain."
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"Power Bi",
+				"Mysql",
+				"Python",
 			],
 			icon: "heartbeat",
 		},
@@ -226,21 +224,19 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			title: "PhD Ingeniería Industrial e Investigación de operaciones",
+			duration: "5 years",
+			subtitle: "Universidad Adolfo Ibañez, Santiago",
 			details: [
 				"Qualified GATE-2020.",
 				"Active Competitive Programmer with CodeChef Rating 1841*.",
 				"Received 500+ stars and 300+ forks on GitHub projects.",
 			],
 			tags: [
-				"Data Structures & Algorithms",
-				"Operating Systems",
-				"Database Management System",
-				"Computer Networks",
-				"Compiler Designing",
-				"Cloud Computing",
+				"Ingestigación de Operaciones",
+				"Ingeniería Industrial",
+				"Planificación Energética",
+				"Machine Learning",
 			],
 			icon: "graduation-cap",
 		},
