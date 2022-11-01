@@ -162,7 +162,7 @@ export default {
 		{
 			title: "Estec",
 			duration: "May 2022 - Present",
-			subtitle: "Analista de Inteligencia de Negocios",
+			subtitle: "Business Intelligence Analyst",
 			details: [
 				"I am in charge of data analysis and the use of ML techniques. I have developed models of customer payment behavior, Safety Stock, Cross Selling and Statistical Demand Forecasting. I have also developed several dashboards through Power BI."
 			],
