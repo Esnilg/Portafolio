@@ -164,14 +164,15 @@ export default {
 			duration: "May 2022 - Present",
 			subtitle: "Analista de Inteligencia de Negocios",
 			details: [
-				"Working on the products in the healthcare/digital therapeutics domain."
+				"I am in charge of data analysis and the use of ML techniques. I have developed models of customer payment behavior, Safety Stock, Cross Selling and Statistical Demand Forecasting. I have also developed several dashboards through Power BI."
 			],
 			tags: [
 				"Power Bi",
 				"Mysql",
 				"Python",
+				"Git",
 			],
-			icon: "heartbeat",
+			icon: "fa fa-bars",
 		},
 		{
 			title: "Novopay Solutions Pvt. Ltd.",
