@@ -23,7 +23,7 @@ export default {
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
+			skillName: "Flask","TensorFlow","NumPy","SciPy","Pandas","Matplotlib","Keras","SciKit-Learn",
 			color: "6",
 			percentage: "50",
 		},
@@ -40,12 +40,6 @@ export default {
 			percentage: "30",
 		},
 		{
-			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
-			color: "4",
-			percentage: "70",
-		},
-		{
 			title: "Version Control",
 			skillName: "GitHub, Monday",
 			color: "7",
@@ -56,12 +50,6 @@ export default {
 			skillName: "Postman, Chrome DevTools",
 			color: "3",
 			percentage: "80",
-		},
-		{
-			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
-			color: "5",
-			percentage: "50",
 		},
 		{
 			title: "Editor",
