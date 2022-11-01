@@ -17,7 +17,7 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "Julia,Python,Matlab,R,C++",
 			color: "1",
 			percentage: "70",
 		},
