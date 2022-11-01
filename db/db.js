@@ -17,45 +17,27 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Julia,Python,Matlab,R,C++",
+			skillName: "Julia, Python ,Matlab, R, C++",
 			color: "1",
 			percentage: "70",
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
+			skillName: "Flask, Keras, TensorFlow, Pandas, SciKit-Learn",
 			color: "6",
 			percentage: "50",
 		},
 		{
 			title: "Backend",
-			skillName: "Nodejs, MongoDB",
+			skillName: "MongoDB",
 			color: "2",
 			percentage: "40",
 		},
 		{
-			title: "Clouds",
-			skillName: "AWS(EC2, S3), Heroku, Netlify",
-			color: "3",
-			percentage: "30",
-		},
-		{
-			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
-			color: "4",
-			percentage: "70",
-		},
-		{
 			title: "Version Control",
-			skillName: "GitHub, JIRA, Trello",
+			skillName: "GitHub, Monday",
 			color: "7",
 			percentage: "70",
-		},
-		{
-			title: "Tools",
-			skillName: "Postman, Chrome DevTools",
-			color: "3",
-			percentage: "80",
 		},
 		{
 			title: "Saas products",
