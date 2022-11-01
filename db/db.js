@@ -162,7 +162,7 @@ export default {
 		{
 			title: "Estec",
 			duration: "May 2022 - Present",
-			subtitle: "Business Intelligence Analyst",
+			subtitle: "Business intelligence analyst",
 			details: [
 				"I am in charge of data analysis and the use of ML techniques. I have developed models of customer payment behavior, Safety Stock, Cross Selling and Statistical Demand Forecasting. I have also developed several dashboards through Power BI."
 			],
@@ -175,26 +175,22 @@ export default {
 			icon: "fa fa-bars",
 		},
 		{
-			title: "Novopay Solutions Pvt. Ltd.",
-			duration: "June 2020 - April 2022",
-			subtitle: "Software Engineer",
+			title: "Laboratorios Vargas S.A.",
+			duration: "Jul 2012 - Sep 2014",
+			subtitle: "Decision support system model analyst",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"I was in charge of the analysis of demand and sales indicators for pharmaceutical products, creating predictive models through machine learning tools, in order to provide the company with an annual production plan. I also provided reports on the availability of raw materials and ensured compliance with established production targets.",
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"R",
+				"Excel",
+				"Machine Learning",
+				"Data analyst",
 			],
 			icon: "qrcode",
 		},
 		{
-			title: "ThinkPedia LLP",
+			title: "Universidad de Carabobo",
 			duration: "May 2019 - June 2019",
 			subtitle: "SDE Intern",
 			details: [
