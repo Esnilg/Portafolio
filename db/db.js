@@ -23,7 +23,7 @@ export default {
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Flask","TensorFlow","NumPy","SciPy","Pandas","Matplotlib","Keras","SciKit-Learn",
+			skillName: "Flask","TensorFlow","Pandas","Keras","SciKit-Learn",
 			color: "6",
 			percentage: "50",
 		},
