@@ -40,8 +40,8 @@ export default {
 			percentage: "70",
 		},
 		{
-			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
+			title: "Data Visualization",
+			skillName: "Power BI, Matplotlib",
 			color: "5",
 			percentage: "50",
 		},
