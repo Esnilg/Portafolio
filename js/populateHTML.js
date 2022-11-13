@@ -298,6 +298,7 @@ populateSkills(data.skills, "skills");
 
 fetchBlogsFromMedium();
 
+populateProjects(data.projects.Energía, "Energía-projects");
 populateProjects(data.projects.web, "web-projects");
 populateProjects(data.projects.software, "software-projects");
 populateProjects(data.projects.android, "android-projects");
