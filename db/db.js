@@ -53,7 +53,7 @@ export default {
 		},
 	],
 	projects: {
-		Energía: [
+		Energia: [
 			{
 				projectName: "SnylloAir.com",
 				image: "images/snylloair.png",
