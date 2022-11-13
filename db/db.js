@@ -72,7 +72,6 @@ export default {
 				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
-		
 		web: [
 			{
 				projectName: "Programming Diaries",
